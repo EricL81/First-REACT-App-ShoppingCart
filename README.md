@@ -1,3 +1,6 @@
+# First Steps with REACT, with HOOKS, creating a Shopping Cart
+useState, useEffect, Components, Data Persistence in Local Storage
+
 ![](First-REACT-App-ShoppingCart.jpg)
 
 
